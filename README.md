@@ -46,54 +46,6 @@ Tools & Services
   <img src="https://img.shields.io/badge/Inngest-000000?style=for-the-badge&logo=inngest&logoColor=white" alt="Inngest" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 </p>
-
-🚀 Featured Projects
-Project	Tech Stack	Highlights	Links
-YourMart
-<sub>Full-Stack Grocery E-Commerce</sub>	React Vite Node.js Express Neon Stripe Inngest	Product catalog, cart, checkout integration, order workflows, and delivery features.	Live Demo · Source
-DSA Visualizer & Chatbot
-<sub>Interactive Learning Platform</sub>	HTML CSS JavaScript Python	Interactive learning experience for data structures and algorithms.	Live Demo · Source
-Aviation
-<sub>Visa Consultancy & Booking System</sub>	React Node.js Express MySQL	Consultancy and appointment-oriented application with relational data storage.	Source Code
-Modular Portfolio
-<sub>Personal Portfolio Website</sub>	React Vite Tailwind CSS Framer Motion	Responsive portfolio with animations and modular components.	Live Demo · Source
-
-
-<p align="center">
-  <a href="https://github.com/Vermaji2077?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-More_Projects-00ADB5?style=for-the-badge&logo=github&logoColor=white" alt="Explore more projects" />
-  </a>
-</p>
-
-📊 GitHub Analytics
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vermaji2077&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Nishant's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vermaji2077&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vermaji2077&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vermaji2077/Vermaji2077/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vermaji2077/Vermaji2077/output/github-snake.svg" />
-    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Vermaji2077/Vermaji2077/output/github-snake.svg" />
-  </picture>
-</p>
-
-🎓 Education & Certifications
-Education
-- B.Tech — Computer Science & Engineering | ITM (SLS) Baroda University | 2023–2027
-- Higher Secondary (Class XII, Science) | Mar Gregorios Memorial School | 2023
-- Secondary (Class X) | Mar Gregorios Memorial School | 2021
-Certifications & Programs
-- Code Unnati Program — Edunet Foundation & SAP | 2024–2025
-  - Python programming, C++ fundamentals, AI, and SAP chatbot learning.
-- Code Unnati Advanced Course — Edunet Foundation & SAP | 2025–2026
-  - AI/ML, Deep Learning, Edge Computing, SAP Analytics Cloud, and SAP ABAP on BTP.
 💻 Run My Portfolio Locally
 # Clone the repository
 git clone https://github.com/Vermaji2077/Modular-Portfolio.git
