@@ -26,6 +26,30 @@ const projects = [
     description: "Developed a full-stack platform for visa appointment booking, user registration, and consultancy service management. Implemented client and service package management with robust MySQL database integration.",
     image: "/assets/project3.png",
     link: "https://github.com/Vermaji2077/aviation"
+  },
+  {
+    id: 4,
+    title: "3-D Portfolio – Interactive Web Experience",
+    tech: "Three.js | React Three Fiber | JavaScript | Tailwind CSS | WebGL",
+    description: "An immersive 3D portfolio website showcasing creative web development skills through interactive 3D environments, dynamic WebGL animations, and engaging visual effects. It focuses on delivering an immersive user experience while optimizing 3D asset loading and rendering performance.",
+    image: "/assets/project4.png",
+    link: "https://nish-port-folio.netlify.app/"
+  },
+  {
+    id: 5,
+    title: "ECHO – Interactive Editorial Portfolio",
+    tech: "HTML5 | CSS3 | JavaScript (ES6+) | React.js | OGL | WebGL | Canvas API | CSS 3D Transforms",
+    description: "ECHO is a modern, interactive portfolio showcasing software development projects, academic qualifications, certifications, and technical skills. It combines editorial typography, scroll-driven animations, WebGL liquid card effects, a 3D cylindrical navigation system, interactive project modals, and in-browser PDF certificate previews to deliver an immersive user experience.",
+    image: "/assets/project5.png",
+    link: "https://echo-by-nish.vercel.app/"
+  },
+  {
+    id: 6,
+    title: "Personal Developer Portfolio – Main Portfolio",
+    tech: "React.js | Tailwind CSS | JavaScript | HTML5 | CSS3 | Framer Motion",
+    description: "My primary portfolio website showcasing full-stack projects, technical certifications, and professional journey as a developer. Built with responsive UI/UX design, interactive case studies, smooth animations, and optimized web performance.",
+    image: "/assets/project6.png",
+    link: "https://vermaji2077.github.io/Portfolio/"
   }
 ];
 
