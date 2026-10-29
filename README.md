@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://vermaji2077.github.io/Portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Science+Undergraduate;React+%7C+Node.js+%7C+Express+%7C+MySQL;Passionate+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Science+Undergraduate;React+%7C+Node.js+%7C+Three.js+%7C+WebGL;Passionate+Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
@@ -37,9 +37,11 @@ I am a **Computer Science undergraduate** and passionate **Full-Stack Developer*
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-### **Frontend Development**
+### **Frontend & Creative 3D Development**
 <p align="left">
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.dot.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -81,6 +83,8 @@ I am a **Computer Science undergraduate** and passionate **Full-Stack Developer*
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- |
+| **ECHO** <br><sub>*Interactive Editorial Portfolio*</sub> | `React.js` `OGL` `WebGL` `Canvas API` `CSS 3D` `JavaScript (ES6+)` | • Editorial typography with scroll-driven animations<br>• WebGL liquid card effects & 3D cylindrical navigation system<br>• Interactive project modals and in-browser PDF certificate previews | [🌐 Live Demo](https://echo-by-nish.vercel.app/) |
+| **3-D Portfolio** <br><sub>*Interactive 3D Web Experience*</sub> | `Three.js` `React Three Fiber` `WebGL` `JavaScript` `Tailwind CSS` | • Immersive 3D portfolio environment with creative WebGL animations<br>• Dynamic visual effects and interactive 3D camera controls<br>• Optimized 3D asset loading & rendering performance | [🌐 Live Demo](https://nish-port-folio.netlify.app/) |
 | **YourMart** <br><sub>*Full-Stack Grocery E-Commerce*</sub> | `React.js` `Vite` `Tailwind CSS` `Node.js` `Express.js` `Neon` `Stripe` `Inngest` | • Product catalog, shopping cart, and live order tracking<br>• Delivery partner assignment & OTP verification<br>• Automated order processing with Inngest<br>• Secure checkout with Stripe integration | [🌐 Live Demo](https://your-mart-by-nish.vercel.app/) |
 | **DSA Visualizer & Chatbot** <br><sub>*Interactive Learning Platform*</sub> | `HTML5` `CSS3` `JavaScript` `Python` | • Interactive step-by-step visualizer for data structures & algorithms<br>• Built-in AI chatbot to guide students through algorithm complexities and logic<br>• Dynamic animations for intuitive concept understanding | [🌐 Live Demo](https://vermaji2077.github.io/dsa/) |
 | **Aviation** <br><sub>*Visa Consultancy & Booking System*</sub> | `React.js` `Express.js` `Node.js` `MySQL` `JavaScript` | • End-to-end appointment scheduling and client onboarding<br>• Consultancy service package manager<br>• Structured relational schema with MySQL | [💻 Source Code](https://github.com/Vermaji2077/aviation) |
